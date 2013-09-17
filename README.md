@@ -1,4 +1,4 @@
-# Frontend Development Bookmarks
+z Frontend Development Bookmarks
 
 This is a collection of resources for the front-end developer. If you have something you would like to contribute, just submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
 
@@ -25,6 +25,6 @@ This is a collection of resources for the front-end developer. If you have somet
 
 ### Collaborators
 
-* pchang78
+* [pchang78](https://github.com/pchang78)
 
 
