@@ -1,6 +1,6 @@
 # Frontend Development Bookmarks
 
-This is a collection of resources for the front-end developer. If you have something you would like to contribute, just submit a pull-request.
+This is a collection of resources for the front-end developer. If you have something you would like to contribute, just submit a [pull request](https://help.github.com/articles/creating-a-pull-request).
 
 ## CSS
 
